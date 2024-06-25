@@ -1,2 +1,2 @@
 # Fintech
-All Data Science things Fintech Related
+Data Science Fintech Related Code and Findings
